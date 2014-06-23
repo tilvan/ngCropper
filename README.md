@@ -1,7 +1,7 @@
 ngCropper
 =========
 
-ngCropper is Angular directive for upload images with cropping tool.
+ngCropper is Angular directive for upload images with cropping tool in Rails app.
 
 Dependencies:
 
