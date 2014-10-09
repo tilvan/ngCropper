@@ -1,5 +1,6 @@
 ngCropper
 =========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tilvan/ngCropper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ngCropper is an Angular directive for upload images with cropping tool in Rails app.
 
